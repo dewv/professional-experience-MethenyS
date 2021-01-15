@@ -10,7 +10,7 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
 - [x ] [Personal leave policy](./personalLeavePolicy.md)
 - [x ] [Sign the FERPA agreement](./signFERPA.md)
-- [ ] [Maintain a high standard of professional ethics](./ethics.md)
+- [x ] [Maintain a high standard of professional ethics](./ethics.md)
 
 ## Technical training
 
