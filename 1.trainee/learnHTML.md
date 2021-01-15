@@ -1,7 +1,7 @@
 # Learn HTML
 
 1. Study the following tutorials at [w3schools](https://www.w3schools.com/html/default.asp):
-- [ ] HTML5 Tutorial
+- [ x] HTML5 Tutorial
 - [ ] HTML Forms
 - [ ] HTML5
 
