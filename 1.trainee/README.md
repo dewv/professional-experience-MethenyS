@@ -7,7 +7,7 @@ Each link in the checklists below opens a file of instructions. As you complete 
 ## Employment orientation
 
 - [x ] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
-- [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
+- [x ] [Create a LinkedIn profile](./createLinkedInProfile.md)
 - [x ] [Personal leave policy](./personalLeavePolicy.md)
 - [x ] [Sign the FERPA agreement](./signFERPA.md)
 - [x ] [Maintain a high standard of professional ethics](./ethics.md)
