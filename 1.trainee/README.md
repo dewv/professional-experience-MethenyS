@@ -14,7 +14,7 @@ Each link in the checklists below opens a file of instructions. As you complete 
 
 ## Technical training
 
-- [ ] [Learn HTML](./learnHTML.md)
+- [x ] [Learn HTML](./learnHTML.md)
 - [ ] [Learn CSS](./learnCSS.md)
 - [ ] [Learn Bootstrap](./learnBootstrap.md)
 - [ ] [Learn JavaScript](./learnJavaScript.md)
