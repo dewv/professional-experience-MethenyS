@@ -13,7 +13,7 @@
 
 3. Take the [HTML quiz](https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML) until you score 90% or higher, with a time limit of one minute per question. Take a screenshot like the one below that shows your score and Time Spent, and edit this page to replace the image with your own.
 
-![My image](./HTML results.png)
+![My image](./HTML-Results.png)
 
 4. Add the "HTML" and "HTML5" skills to your LinkedIn profile. Your supervisor will endorse these.
 
