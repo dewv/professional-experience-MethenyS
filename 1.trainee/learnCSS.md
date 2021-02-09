@@ -8,5 +8,7 @@
 2. Take the [CSS quiz](https://www.w3schools.com/quiztest/quiztest.asp?Qtest=CSS) until you score 90% or higher, with a time limit of one minute per question. Take a screenshot that shows your score and Time Spent, and add the image to this page.
 
 ![My image](./Css-Quiz-Results.png)
+
+
 3. Add the "Cascading Style Sheets (CSS)" skill to your LinkedIn profile. Your supervisor will endorse it.
   
