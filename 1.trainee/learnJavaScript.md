@@ -16,5 +16,7 @@ In the introductory courses, you learned to write games with JavaScript running 
 
 2. Take the [JavaScript quiz](https://www.w3schools.com/quiztest/quiztest.asp?Qtest=JavaScript) until you score 90% or higher, with a time limit of one minute per question. (You may need to review some other tutorials at w3schools.) Take a screenshot that shows your score and Time Spent, and add the image to this page.
 
+![My image](./Java-Quiz-Results)
+
 3. Add the "JavaScript" skill to your LinkedIn profile. Your supervisor will endorse it.
   
