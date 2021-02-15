@@ -10,5 +10,5 @@ While you finish up technical training topics at your own pace, you and your new
 
 When all of the above are complete, consult the CEO. With CEO approval, you may then:
 
-- [ ] Announce your official promotion to "Information Systems Specialist" on [LinkedIn](https://linkedin.com/)
-- [ ] Announce that you are available for development tasks by posting to the Staffing channel in MS Teams
+- [x] Announce your official promotion to "Information Systems Specialist" on [LinkedIn](https://linkedin.com/)
+- [x] Announce that you are available for development tasks by posting to the Staffing channel in MS Teams
